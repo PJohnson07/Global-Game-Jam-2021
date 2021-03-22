@@ -1,6 +1,7 @@
 # Global-Game-Jam-2021
 Colors of Grief
 Installation Instructions
+
 https://globalgamejam.org/2021/games/colors-grief-8
 
 Download the ZIP file for the executable.
